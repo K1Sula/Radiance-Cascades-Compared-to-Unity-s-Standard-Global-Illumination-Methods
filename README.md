@@ -26,3 +26,6 @@ Unity 6000.2.12f1
 ## License
 
 MIT
+
+
+I improved the README formatting and added a short guide to the measured data folders. This makes the project easier to understand and helps readers find the results.
